@@ -1,16 +1,12 @@
-### Hi there 👋
+### :woman_technologist: Olá! Eu sou a Thays Vasconcellos
 
-<!--
-**thaysvs2/thaysvs2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Atualmente trabalho na [ FAB ](https://www.fab.mil.br/index.php/) desenvolvendo Sistemas.
+- 🎓 Sou formada em Sistemas de Informação na Feuc - [ Feuc ](https://www.feuc.br/).
+- 🎯 Adoro desenvolver APIs backend com Java.
+- ⚡ Curiosidade: sou carioca e nas horas vagas gosto de praticar atividade física (💪), fazer trilhas (🥾), estar em contato com a natureza (🍃),assistir filmes (🎞️) e séries (📺) , ler livros (📚) e estou sempre ouvindo música (🎵). 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/thaysvs2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaysvs2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaysvs2&layout=compact&langs_count=16&theme=dark"/>
+</div>
