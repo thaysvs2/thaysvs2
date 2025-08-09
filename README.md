@@ -1,9 +1,9 @@
-### :woman_technologist: Olá! Eu sou a Thays Vasconcellos
+### :woman_technologist: Hello! I'm Thays Vasconcellos
 
-- 💻 Atualmente trabalho na [ FAB ](https://www.fab.mil.br/index.php/) desenvolvendo Sistemas.
-- 🎓 Sou formada em Sistemas de Informação na Feuc - [ Feuc ](https://www.feuc.br/).
-- 🎯 Adoro desenvolver APIs backend com Java.
-- ⚡ Curiosidade: sou carioca e nas horas vagas gosto de praticar atividade física (💪), fazer trilhas (🥾), estar em contato com a natureza (🍃), assistir filmes (🎞️) e séries (📺) , ler livros (📚) e estou sempre ouvindo música (🎵). 
+- 💻 I currently work at [ FAB ](https://www.fab.mil.br/index.php/) developing Systems.
+- 🎓 I have a degree in Information Systems - [ Feuc ](https://www.feuc.br/).
+- 🎯 I like developing backend APIs with Java and I'm loving migrating to Python.
+- ⚡ Fun fact: I'm from Rio de Janeiro and in my free time I like to do physical activity (💪), go hiking (🥾), be in contact with nature (🍃), watch movies (🎞️) and series (📺), read books (📚) and I'm always listening to music (🎵).
 
 <div>
   <a href="https://github.com/thaysvs2">
